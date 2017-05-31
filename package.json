@@ -1,0 +1,25 @@
+{
+  "name": "es6_stub_module",
+  "version": "1.0.0",
+  "description": "I use this to show that build systems are working. There's nothing interesting down here.",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/es6_stub_module.git"
+  },
+  "keywords": [
+    "build",
+    "system",
+    "test",
+    "module"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/es6_stub_module/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/es6_stub_module#readme"
+}
