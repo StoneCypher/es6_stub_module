@@ -1,6 +1,6 @@
 {
   "name": "es6_stub_module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "I use this to show that build systems are working. There's nothing interesting down here.",
   "main": "foo.js",
   "scripts": {
